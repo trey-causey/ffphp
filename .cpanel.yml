@@ -4,10 +4,10 @@ deployment:
     - export DEPLOYPATH=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp ff_white.png $DEPLOYPATH
-    - export DEPLOYPATHCSS=/home/sitejsvh/public_html/formula-fantasy.com/css/
+    - export DEPLOYPATHCSS=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/css/
     - /bin/cp css/reset.css $DEPLOYPATHCSS
     - /bin/cp css/style.css $DEPLOYPATHCSS
-    - export DEPLOYPATHIMG=/home/sitejsvh/public_html/formula-fantasy.com/img/
+    - export DEPLOYPATHIMG=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/img/
     - /bin/cp img/img.png $DEPLOYPATHIMG
     - /bin/cp img/nucleo-icon-1.svg $DEPLOYPATHIMG
     - /bin/cp img/nucleo-icon-2.svg $DEPLOYPATHIMG
@@ -21,7 +21,7 @@ deployment:
     - /bin/cp img/nucleo-icon-10.svg $DEPLOYPATHIMG
     - /bin/cp img/nucleo-icon-11.svg $DEPLOYPATHIMG
     - /bin/cp img/nucleo-icon-12.svg $DEPLOYPATHIMG
-    - export DEPLOYPATHJS=/home/sitejsvh/public_html/formula-fantasy.com/js/
+    - export DEPLOYPATHJS=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/js/
     - /bin/cp js/jquery-2.1.1.js $DEPLOYPATHJS
     - /bin/cp js/jquery.menu-aim.js $DEPLOYPATHJS
     - /bin/cp js/main.js $DEPLOYPATHJS
