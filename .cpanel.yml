@@ -8,6 +8,20 @@ deployment:
     - export DEPLOYPATHCSS=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/css/
     - /bin/cp css/reset.css $DEPLOYPATHCSS
     - /bin/cp css/style.css $DEPLOYPATHCSS
+    - export DEPLOYPATHCSSIMG=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/css/img/
+    - /bin/cp img/img.png $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-1.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-2.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-3.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-4.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-5.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-6.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-7.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-8.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-9.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-10.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-11.svg $DEPLOYPATHCSSIMG
+    - /bin/cp css/img/nucleo-icon-12.svg $DEPLOYPATHCSSIMG
     - export DEPLOYPATHIMG=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/img/
     - /bin/cp img/img.png $DEPLOYPATHIMG
     - /bin/cp img/nucleo-icon-1.svg $DEPLOYPATHIMG
