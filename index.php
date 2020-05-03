@@ -32,7 +32,7 @@ print <<<text_limiter
 						</form>
 					</li>
 						
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="anal.html">Analytics</a></li>
 							<li><a href="rules.html">Rules</a></li>
 							<li><a href="draft picks.html">Draft Picks</a></li>
