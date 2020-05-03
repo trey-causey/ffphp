@@ -4,6 +4,7 @@ deployment:
     - export DEPLOYPATH=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp ff_white.png $DEPLOYPATH
+    - /bin/cp test.html $DEPLOYPATH
     - export DEPLOYPATHCSS=/home/mlipkb2eqfwq/public_html/formula-fantasy.com/css/
     - /bin/cp css/reset.css $DEPLOYPATHCSS
     - /bin/cp css/style.css $DEPLOYPATHCSS
